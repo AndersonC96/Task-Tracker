@@ -1,5 +1,7 @@
 # Task Tracker CLI - Gerenciador de Tarefas em Linha de Comando
 
+🔗 **Repositório no GitHub**: [https://github.com/AndersonC96/Task-Tracker](https://github.com/AndersonC96/Task-Tracker)
+
 Um projeto simples em Python para gerenciar tarefas via terminal, armazenando dados em um arquivo JSON. Ideal para quem quer praticar manipulação de arquivos, argumentos de linha de comando e estruturas de dados.
 
 # 🚀 Como Executar o Projeto
