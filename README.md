@@ -46,6 +46,9 @@ task-tracker-cli/
 # 💡 Aprendizados e Habilidades Praticadas
 
 ✔ Manipulação de arquivos JSON em Python
+</br>
 ✔ Uso de `argparse` para CLI interativo
+</br>
 ✔ Estruturação de dados e persistência local
+</br>
 ✔ Boas práticas de tratamento de erros
