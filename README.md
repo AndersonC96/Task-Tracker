@@ -6,7 +6,7 @@ Um projeto simples em Python para gerenciar tarefas via terminal, armazenando da
 
 ## Pré-requisitos
 
-Python 3.x instalado (Download aqui)[https://www.python.org/downloads/]
+Python 3.x instalado [Download aqui](https://www.python.org/downloads/)
 
 ## Passo a Passo
 
