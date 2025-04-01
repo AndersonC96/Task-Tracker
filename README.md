@@ -52,3 +52,9 @@ task-tracker-cli/
 ✔ Estruturação de dados e persistência local
 </br>
 ✔ Boas práticas de tratamento de erros
+
+# 🔗 Links Úteis
+
+- [Repositório no GitHub](https://github.com/AndersonC96/Task-Tracker)
+
+- [Documentação do Python](https://docs.python.org/3/)
